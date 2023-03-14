@@ -47,7 +47,7 @@ const Profile = () => {
             <Box
                 bgColor={'rose.500'}
                 height={Dimensions.get('window').height / 3}
-                borderBottomRightRadius={'1550'}
+                borderBottomRightRadius={'275'}
             >
                 <Box
                     py={5}
@@ -96,6 +96,7 @@ const Profile = () => {
                         shadow={'2'}
                         p={4}
                         // mt={4}
+                        key={item?.id}
                         m={4}
                         // mb={4}
                         borderRadius={'lg'}
