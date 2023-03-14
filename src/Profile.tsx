@@ -52,7 +52,7 @@ const Profile = () => {
                 <Box
                     py={5}
                     px={3}
-                    bgColor={'rose.50'}
+                    bgColor={'#fff'}
                     borderBottomRadius={'200'}
                     shadow={'4'}
                 >
