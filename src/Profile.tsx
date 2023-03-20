@@ -84,7 +84,7 @@ const Profile = () => {
                         mb={'4'}
                     >
                         Biswopaban Nayak
-                    </Text>
+                    </Text> 
                 </Box>
             </Box>
             {
